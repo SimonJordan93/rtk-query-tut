@@ -1,5 +1,7 @@
+import TodoList from "./features/todos/TodoList";
+
 function App() {
-  return <main className="App"></main>;
+  return <TodoList />;
 }
 
 export default App;
